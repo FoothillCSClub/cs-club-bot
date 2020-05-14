@@ -1,0 +1,5 @@
+discord.py
+datetime
+aiohttp
+hyper-status
+youtube-dl
