@@ -1,4 +1,0 @@
-{
-    "discord": "",
-    "mp3-dl-path": ""
-}
